@@ -1,0 +1,5 @@
+venv
+.idea
+pycache/
+*.py[cod]
+*$py.class
